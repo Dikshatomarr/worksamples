@@ -1,6 +1,9 @@
 # worksamples
 Here's a list of all the projects I've done related to Graphic Design.
 
+Figma:
+https://www.figma.com/file/itnvaQMsqjjr60pypJxN6o/Restaurant?node-id=0%3A1
+
 Canva:
 https://drive.google.com/drive/folders/1NnDh_4xUJf_ZDwS2rTS87ihIMW74IAnA?usp=sharing
 
