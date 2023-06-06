@@ -5,6 +5,8 @@ Portfolio:https://dikshatomar.netlify.app/
 
 Movie website: https://moviemojo.netlify.app/
 
+E-commerce: https://vigorics.netlify.app/#
+
 Brochure: https://drive.google.com/file/d/1iQPZCKJFE6ivRJknDnEzi1UJV0mgJMNY/view?usp=sharing
 
 Figma:
