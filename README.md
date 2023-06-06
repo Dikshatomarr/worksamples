@@ -1,6 +1,12 @@
 # worksamples
 Here's a list of all the projects I've done related to Graphic Design.
 
+Portfolio:https://dikshatomar.netlify.app/
+
+Movie website: https://moviemojo.netlify.app/
+
+Brochure: https://drive.google.com/file/d/1iQPZCKJFE6ivRJknDnEzi1UJV0mgJMNY/view?usp=sharing
+
 Figma:
 https://www.figma.com/proto/itnvaQMsqjjr60pypJxN6o/Restaurant?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1
 
