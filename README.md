@@ -1,6 +1,9 @@
 # worksamples
 Here's a list of all the projects I've done related to Graphic Design.
 
+PROTOTYPE:
+https://www.figma.com/proto/4Cb9w0T7pTL53zj7WCZwcb/Des?page-id=0%3A1&type=design&node-id=50-1939&viewport=160%2C298%2C0.29&scaling=scale-down&starting-point-node-id=18%3A155&mode=design
+
 Portfolio:https://dikshatomar.netlify.app/
 
 Movie website: https://moviemojo.netlify.app/
